@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Postman exported files
+postman_collection.json
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
